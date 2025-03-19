@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
